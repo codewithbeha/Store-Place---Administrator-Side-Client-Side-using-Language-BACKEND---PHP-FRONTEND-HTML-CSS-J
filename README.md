@@ -10,4 +10,4 @@ for more watch the code...
 --> FRONTEND-HTML-CSS-J
 
 Server using -> : XAMP-server
-Database using -> : MyAdmin
+Database using -> : phpMyAdmin
